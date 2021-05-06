@@ -13,12 +13,13 @@ Skills: C++/C/Python/Flutter
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnatrea)]
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnatrea&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnatrea)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnatrea&show_icons=true)]
 
-![GitHub metrics](https://metrics.lecoq.io/Krishnatrea)  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnatrea)]
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Krishnatrea)  
+[![GitHub metrics](https://metrics.lecoq.io/Krishnatrea)  ]
 
-![Profile views](https://gpvc.arturio.dev/Krishnatrea)  
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Krishnatrea)]
+
+[![Profile views](https://gpvc.arturio.dev/Krishnatrea)  ]

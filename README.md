@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Harshit Sharma 
+### Hi there 👋, My name is Harshit Sharma 
 #### Krishnatera
 
 Skills: C++/C/Python/Flutter/Golang/Java
